@@ -40,6 +40,6 @@ let arr2 = [4,5,6];
 
 
 //4.. 전개 구문: 객체, 복제도 가능
-//object.assign 을 쓸 필요 없음
+//object.assign 을 쓸 필요 없음.
 
  
