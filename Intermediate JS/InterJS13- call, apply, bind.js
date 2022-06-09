@@ -39,4 +39,4 @@ console.log(maxNum);
 
 
 
-// 3. bind: 함수의 this 값을 영구히 바꿀 수 있습니다.  
+// 3. bind: 함수의  

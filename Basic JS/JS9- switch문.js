@@ -18,4 +18,3 @@ switch(fruit){
     console.log("300원 입니다.");
     break;
 }
-
