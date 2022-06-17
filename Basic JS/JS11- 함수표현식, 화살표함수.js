@@ -85,3 +85,4 @@
 const add = (num1, num2)=> num1 + num2;  // () 생략도 가능 (return 도 생략함)
 const result = add(4, 4);
 console.log(result)
+//
